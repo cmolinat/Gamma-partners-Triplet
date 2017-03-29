@@ -1,0 +1,6 @@
+c:\users\cmt\documents\visual studio 2015\Projects\Trip3\Trip3\bin\Debug\Trip3.exe.config
+c:\users\cmt\documents\visual studio 2015\Projects\Trip3\Trip3\bin\Debug\Trip3.exe
+c:\users\cmt\documents\visual studio 2015\Projects\Trip3\Trip3\bin\Debug\Trip3.pdb
+c:\users\cmt\documents\visual studio 2015\Projects\Trip3\Trip3\obj\Debug\Trip3.csprojResolveAssemblyReference.cache
+c:\users\cmt\documents\visual studio 2015\Projects\Trip3\Trip3\obj\Debug\Trip3.exe
+c:\users\cmt\documents\visual studio 2015\Projects\Trip3\Trip3\obj\Debug\Trip3.pdb
